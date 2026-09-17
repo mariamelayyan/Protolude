@@ -1,4 +1,6 @@
 ﻿<Solution>
+  <Project Path="ColliderEventSystem.Editor.csproj" />
+  <Project Path="ColliderEventSystem.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="Unity.StarterAssets.Editor.csproj" />
   <Project Path="Unity.StarterAssets.csproj" />

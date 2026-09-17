@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b19a3fc3bb9540dc803161f015a4f79, type: 3}
+  m_Name: water-fountain
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.IntVariable
+  m_Id: 42eb7b5c48524e4f80027baa99998a88
+  Persistent: 0
+  m_InitialValue: 0
